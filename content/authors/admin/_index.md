@@ -18,7 +18,7 @@ organizations:
   url: "https://www.lboro.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include sleepiness and transport safety.
+bio: I am a driven and enthusiastic early career researcher with 6 years post Ph.D experience in road safety and sleep research, 57 peer reviewed publications (37 journal, 20 conference), over £2.4mil of research income (including over £1 mil as principle investigator), 2 book chapters, over 40 government/industry reports, 21 conference presentations with peer reviewed abstracts and 13 invited presentations
 
 interests:
 - Driver impairment
@@ -30,9 +30,12 @@ education:
   - course: PhD in Driver Sleepiness
     institution: Loughborough University
     year: 2011
-  - course: MEng in Artificial Intelligence
+  - course: Bachelor of Science, Human Biology (Honours) 
     institution: Loughborough University
     year: 2007
+  - course: Diploma of Professional Studies, Pharmaceutical Regulatory Affairs, 
+    institution: 3M Health Care Ltd
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,6 +51,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=b67AsIQAAAAJ 
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Ashleigh_Filtness
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7357-0344
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
