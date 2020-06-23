@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Lecturer in Transport Safety "
   company = "Loughborough University Design School"
   company_url = ""
-  location = "Louhborough, UK"
+  location = "Loughborough, UK"
   date_start = "2018-05-01"
   date_end = ""
   description = """
@@ -34,12 +34,57 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Senior Research Associate (100% research)"
+  company = "Loughborough University Design School"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Loughborough, UK"
+  date_start = "2016-02-01"
+  date_end = "2018-04-01"
+  description = """
+  Supervisor: Prof Pete Thomas
+  
+  Responsibilities include:
+  
+  * Work Package leader on Horizon 2020 funded project SafetyCube.
+  * Leading the Loughborough research involvement in all work packages. 
+  * Supervision of research staff.
+  * Journal and conference paper submissions.
+
+  """
+
+[[experience]]
+  title = "Research Fellow (100% research)"
+  company = "Centre for Accident Research and Road Safety – Queensland (CARRS-Q), Queensland University of Technology"
+  company_url = ""
+  location = "Brisbane, Australia"
+  date_start = "2013-02-01"
+  date_end = "2016-01-01"
+  description = """
+  Supervisor: Prof Narelle Haworth
+  
+  Responsibilities include:
+  
+  * Leading grant and tender applications to state and national funding schemes.
+  * Project manager roles ensuring completion of projects in a timely, cost effective manner.
+  * Involvement in centre strategic planning activities.  
+
+  """
+  
+  [[experience]]
+  title = "Research Fellow (100% research)"
+  company = "Monash University Accident Research Centre (MUARC), Human Factors Team, Monash University"
+  company_url = ""
+  location = "Melbourne, Australia"
+  date_start = "2011-02-01"
+  date_end = "2013-02-01"
+  description = """
+  Supervisor: Dr Missy Rudin-Brown
+  
+  Responsibilities include:
+  
+  * Developing and conducting driving simulator studies.
+  * Working on both large grant projects and industry funded research. 
+
+  """
 
 +++
