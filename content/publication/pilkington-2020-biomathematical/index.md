@@ -3,7 +3,7 @@ title: "Biomathematical modelling for managing worker fatigue in civil engineeri
 date: 2020-01-01
 publishDate: 2020-06-23T21:21:42.354054Z
 authors: ["Fran Pilkington-Cheney", "Ashleigh Filtness", "Wendy Jones", "Sally Maynard", "Alistair Gibb", "Roger Haslam"]
-publication_types: ["1"]
+publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Proceedings of the Institution of Civil Engineers-Civil Engineering*"
