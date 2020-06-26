@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Research Interests"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,22 +15,58 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "fa-bed"
+  icon_pack = "fas"
+  name = "Fatigue"
+  description = ""
   
 [[feature]]
-  icon = "chart-line"
+  icon = "fa-tired"
+  icon_pack = "fas"
+  name = "Fatigue"
+  description = ""
+  
+[[feature]]
+  icon = "fa-car"
+  icon_pack = "fas"
+  name = "Transport Safety"
+  description = ""
+  
+[[feature]]
+  icon = "fa-car-crash"
+  icon_pack = "fas"
+  name = "Transport Safety"
+  description = ""  
+  
+[[feature]]
+  icon = "fa-brain"
+  icon_pack = "fas"
+  name = "Research Methods"
+  description = ""  
+  
+[[feature]]
+  icon = "fa-avianex"
+  icon_pack = "fab"
+  name = "Aviation"
+  description = ""
+  
+[[feature]]
+  icon = "fa-train"
+  icon_pack = "fas"
+  name = "Rail Safety"
+  description = ""
+  
+[[feature]]
+  icon = "fa-bicycle"
+  icon_pack = "fas"
+  name = "Bike Safety"
+  description = ""
+
+[[feature]]
+  icon = "chart-area"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  description = ""  
 
 # Uncomment to use emoji icons.
 # [[feature]]
