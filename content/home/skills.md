@@ -15,49 +15,49 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-bed"
+  icon = "bed"
   icon_pack = "fas"
   name = "Fatigue"
   description = ""
   
 [[feature]]
-  icon = "fa-tired"
+  icon = "tired"
   icon_pack = "fas"
   name = "Fatigue"
   description = ""
   
 [[feature]]
-  icon = "fa-car"
+  icon = "car"
   icon_pack = "fas"
   name = "Transport Safety"
   description = ""
   
 [[feature]]
-  icon = "fa-car-crash"
+  icon = "car-crash"
   icon_pack = "fas"
   name = "Transport Safety"
   description = ""  
   
 [[feature]]
-  icon = "fa-brain"
+  icon = "brain"
   icon_pack = "fas"
   name = "Research Methods"
   description = ""  
   
 [[feature]]
-  icon = "fa-avianex"
+  icon = "avianex"
   icon_pack = "fab"
   name = "Aviation"
   description = ""
   
 [[feature]]
-  icon = "fa-train"
+  icon = "train"
   icon_pack = "fas"
   name = "Rail Safety"
   description = ""
   
 [[feature]]
-  icon = "fa-bicycle"
+  icon = "bicycle"
   icon_pack = "fas"
   name = "Bike Safety"
   description = ""
