@@ -48,6 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AJFiltness 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ashleigh-filtness-72a74b18a 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=b67AsIQAAAAJ 
