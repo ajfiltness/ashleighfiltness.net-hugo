@@ -18,7 +18,7 @@ organizations:
   url: "https://www.lboro.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a driven and enthusiastic early career researcher with 6 years post Ph.D experience in road safety and sleep research, 57 peer reviewed publications (37 journal, 20 conference), over £2.4mil of research income (including over £1 mil as principle investigator), 2 book chapters, over 40 government/industry reports, 21 conference presentations with peer reviewed abstracts and 13 invited presentations
+bio: Ashleigh is a Lecturer in Transport Safety at Loughborough University, UK. Ashleigh is fascinated by sleepiness and fatigue and their impact on safety and is an advocate for road safety, women in academia, dyslexia awareness, and support for first in family to University. 
 
 interests:
 - Driver impairment
@@ -75,12 +75,4 @@ user_groups:
 -
 ---
 
-Dr Ashleigh Filtness is a Lecturer in Transport Safety at Loughborough Design School She specialises in road safety and driver behaviour, with particular expertise in driver sleepiness and impaired driving.
-
-Ashleigh was awarded her PhD from Loughborough University in 2011 for her thesis entitled Obstructive sleep apnoea and daytime driver sleepiness. This research used a driving simulator methodology to demonstrate the increased vulnerability of obstructive sleep apnoea patients driving performance to sleep restriction, and impairment of their driving performance following one night of treatment withdrawal. For her work in this area, Ashleigh was recognised as the British Sleep Societies Young Sleep Researcher of the Year – 2009.
-
-Following the completion of her PhD, Ashleigh moved to Australia where she worked at Monash University Accident Research Centre (MUARC) from 2011-2013. Whilst at MUARC, Ashleigh worked on a variety of road safety research projects funded by both industry and competitive grant schemes.  She gained experience in a range of research methodologies including extending her knowledge of driving simulators and developed expertise in various road safety topics, including: systems thinking, driver distraction, situation awareness, alcohol impairment with motorcycle riders, police in-vehicle safety, the management of heavy vehicle drivers working hours, and driver behaviour at level crossings. 
-
-From 2013-2016 Ashleigh worked at Queensland University of Technology, Centre for Accident Research and Road safety – Queensland (CARRS-Q) working on government, industry and grant funded research projects. During her time at CARRS-Q Ashleigh worked on road safety research projects covering topics in the following areas: driver sleepiness, novice driver training, drug driving, drink driving, driver aggression, driver behaviour in road work sites, safety implications for co-locating road signs, alcohol ignition interlocks, taxi crashes, rail level crossing safety and hot air ballooning incident analysis.  
-
-Since completing her Ph.D Ashleigh has authored over 30 peer reviewed publications and attracted research funding totalling over $1 million (AUD) from government, industry and competitive grant schemes. 
+Ashleigh is a Lecturer in Transport Safety at Loughborough University, UK. Ashleigh is fascinated by sleepiness and fatigue and their impact on safety. Her research seeks to understand what situations contribute to sleepiness/fatigue and how can these bese be managed to reduce the impact on safety. Additionally she is interested in human factors of road and rail transport and has a wealth of experience of conducting industry and government funded projects seeking to improve safety. She loves her husband Edd, daughter Elysia and hot air ballooning! Ashleigh is an advocate for road safety, women in academia, dyslexia awareness, and support for first in family to University. 
