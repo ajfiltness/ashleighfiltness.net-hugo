@@ -4,8 +4,8 @@
 title: "Bus Driver Fatigue"
 summary: ""
 authors: [admin]
-tags: [project]
-categories: [project]
+tags: [media]
+categories: [media]
 date: 2018-07-05T15:57:44+01:00
 
 # Optional external URL for project (replaces project detail page).
