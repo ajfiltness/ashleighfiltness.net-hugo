@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Dailymail"
-authors: []
-date: 2020-07-14T23:10:43+01:00
+title: "Why new mothers shouldn't rush back to work: Many are still 'exhausted' four months after giving birth"
+authors: [admin]
+date: 2014-08-04T14:59:33+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-14T23:10:43+01:00
+publishDate: 2014-08-04T14:59:33+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Daily Mail"
 publication_short: ""
 
 abstract: ""
@@ -24,9 +24,9 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
-categories: []
-featured: false
+tags: [media]
+categories: [media]
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: "https://www.dailymail.co.uk/health/article-2715346/Why-new-mothers-shouldnt-rush-work-Many-exhausted-four-months-giving-birth.html"
 url_video:
 
 # Featured image
