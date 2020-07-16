@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Future Transport Event"
-summary: "Loughborough University academics answered a series of questions put to them by students on Instagram regarding the future of transport. "
+title: "Rail Safety"
+summary: ""
 authors: [admin]
-tags: [media]
-categories: [media]
-date: 2020-01-14T15:07:16+01:00
+tags: [interests]
+categories: [interests]
+date: 2010-07-16T22:57:06+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.youtube.com/watch?v=KMBvGzg-q9c&feature=youtu.be"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -30,7 +30,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=KMBvGzg-q9c&feature=youtu.be"
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -39,3 +39,4 @@ url_video: "https://www.youtube.com/watch?v=KMBvGzg-q9c&feature=youtu.be"
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+My research experience within rail safety has covered a range of perspectives, including drivers, tracker workers and level crossing safety. In each experience I have investigated safety from a systems perspective, taking an all encompassing view point to comprehensively investigate all factors which can negatively impact safety.  

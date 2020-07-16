@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Scimex Article"
-summary: "Don’t smile for the camera when sleepy: CARRS-Q study"
+title: "Sleepiness"
+summary: ""
 authors: [admin]
-tags: [media]
-categories: [media]
-date: 2015-10-05T14:44:32+01:00
+tags: [interests]
+categories: [interests]
+date: 2010-07-16T22:37:04+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.scimex.org/newsfeed/dont-smile-for-the-camera-when-sleepy-carrs-q-study"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -38,4 +38,15 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+projects: [idreams, OSADriving]
 ---
+# {{< icon name="bed" pack="fas" >}} 
+
+I have always enjoyed sleeping, and have a high sleep ability, I first became interested in sleep from an academic point of view while studying for my Undergraduate Degree in Human Biology at Loughborough University. During the course I took a sleep module which opened my eyes (!) to the huge topic that is sleep research. I went on to complete my Ph.D investigating Obstructive Sleep Apnoea and Daytime driver sleepiness and have been facilitated with how sleepiness and safety interact ever since. 
+
+Example Sleep research projects
+- OSA and driving
+- iDreams
+- Sleep crashes
+- Sleep in new mothers
+

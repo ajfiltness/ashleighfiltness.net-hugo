@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Roadsafe article"
-summary: "Loughborough’s lifesaving road safety research given royal recognition at The Savoy"
+title: "Occupational Safety"
+summary: ""
 authors: [admin]
-tags: [media]
-categories: [media]
-date: 2019-12-10T14:51:42+01:00
+tags: [interests]
+categories: [interests]
+date: 2010-07-16T23:30:19+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.roadsafe.com/loughboroughslifesavingroadsafetyresearchgivenroyalrecognitionatthesavoy"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -38,4 +38,8 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+projects: [busdrivers]
 ---
+Most often my research in occupational safety focuses on professional drivers, including truck drivers, bus drivers, train and tram drivers. However, the key themes of sleepiness, fatigue, and human factors in safety are translatable to other industries e.g. construction and nuclear. 
+
+- bus driver fatigue

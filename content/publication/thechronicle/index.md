@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Thechronicle"
-authors: []
-date: 2020-07-14T23:11:58+01:00
+title: "Videos show sleep drivers dicing with death"
+authors: [admin]
+date: 2015-10-16T14:58:38+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-14T23:11:58+01:00
+publishDate: 2015-10-16T14:58:38+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "The Chronicle"
 publication_short: ""
 
 abstract: ""
@@ -24,9 +24,9 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
-categories: []
-featured: false
+tags: [media]
+categories: [media]
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: "https://www.thechronicle.com.au/news/videos-show-sleep-drivers-dicing-death/2809353/"
 url_video:
 
 # Featured image

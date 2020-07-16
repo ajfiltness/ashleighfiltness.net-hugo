@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Teaching & Speaking"
 subtitle = ""
 
 [content]
@@ -68,3 +68,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+I hold Fellowship of Higher Education Academy (FHEA) and am experienced at teaching and speaking to academic, industry and lay audiences. Within academia I teach at both Undergraduate and Postgraduate level. I teach topics relating to sleep and fatigue, transport safety, human factors, research methods and academic skills.
+
+My teaching is based at Loughborough University School of Design and Creative Arts into the programmes:MSc Ergonomics and Human Factors, BA Industrial Design and BSc Product Design and Technology. I am also available for guest lectures on other programmes and institutes. 

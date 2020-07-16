@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Episode 6: Tired to Death – why we need to talk about sleep and fatigue"
+title: "Loughborough’s lifesaving road safety research given royal recognition at The Savoy"
 authors: [admin]
-date: 2019-09-02T15:04:12+01:00
+date: 2019-12-10T14:51:42+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-09-02T15:04:12+01:00
+publishDate: 2019-12-10T14:51:42+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,16 +16,16 @@ publishDate: 2019-09-02T15:04:12+01:00
 publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Active Training Team Podcast"
+publication: "Roadsafe"
 publication_short: ""
 
-abstract: "Episode 6: Tired to Death – why we need to talk about sleep and fatigue"
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "Episode 6: Tired to Death – why we need to talk about sleep and fatigue"
+summary: ""
 
-tags: ["Media", "Podcasts"]
-categories: [Media]
+tags: [media]
+categories: [media]
 featured: true
 
 # Custom links (optional).
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: "https://activetrainingteam.co.uk/podcasts/view/6"
+url_source: "https://www.roadsafe.com/loughboroughslifesavingroadsafetyresearchgivenroyalrecognitionatthesavoy"
 url_video:
 
 # Featured image

@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Zeenews India Article"
-summary: "YouTube videos give insight into sleepy driving. Video blogging or vlogging distracts the driver in the same way as texting and mobile phone use. "
+title: "Hot Air Balloon (HAB) Safety"
+summary: ""
 authors: [admin]
-tags: [media]
-categories: [media]
-date: 2015-10-21T14:58:09+01:00
+tags: [interests]
+categories: [interests]
+date: 2010-07-16T22:56:57+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://zeenews.india.com/news/net-news/youtube-videos-give-insight-into-sleepy-driving_1812868.html"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Combining my hobby and my work, I have applied human factors methods to systematically identify contributing factors to private hot air ballooning incidents. The work analysed formal incident reports and engaged with balloonists, to seek opinions of those actively involved in the sport. This systematic analysis resulted in recommendations for improvement in safety. 
