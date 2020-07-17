@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Sleep catches young men at the wheel"
-authors: [admin]
+authors: []
 date: 2012-02-29T14:48:43+01:00
 doi: ""
 
