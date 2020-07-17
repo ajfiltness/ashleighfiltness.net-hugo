@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hot Air Balloon (HAB) Safety"
+title: "Hot Air Ballooning Safety"
 summary: ""
 authors: [admin]
 tags: [interests]

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SReducing the risk of sleep‐related crashes in young drivers"
+title: "Reducing the risk of sleep‐related crashes in young drivers"
 summary: ""
 authors: [admin]
 tags: [project]

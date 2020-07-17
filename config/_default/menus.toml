@@ -14,12 +14,7 @@
   weight = 30
 
 [[main]]
-  name = "Media"
-  url = "#featured"
-  weight = 36
-
-[[main]]
-  name = "Talks"
+  name = "Teaching & Speaking"
   url = "#talks"
   weight = 38
 
@@ -27,6 +22,11 @@
   name = "Publications"
   url = "#publications"
   weight = 40
+
+[[main]]
+  name = "Media"
+  url = "#featured"
+  weight = 45
 
 [[main]]
   name = "Contact"

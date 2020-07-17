@@ -6,7 +6,7 @@ summary: ""
 authors: [admin]
 tags: [interests]
 categories: [interests]
-date: 2010-07-16T22:57:19+01:00
+date: 2010-01-16T22:57:19+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

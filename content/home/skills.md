@@ -27,45 +27,27 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "car"
-  icon_pack = "fas"
-  name = "Transport Safety"
-  description = ""
-  
-[[feature]]
   icon = "car-crash"
   icon_pack = "fas"
   name = "Transport Safety"
   description = ""  
-  
+
 [[feature]]
-  icon = "brain"
+  icon = "hard-hat"
   icon_pack = "fas"
-  name = "Research Methods"
-  description = ""  
-  
-[[feature]]
-  icon = "avianex"
-  icon_pack = "fab"
-  name = "Aviation"
-  description = ""
-  
+  name = "Occupational Safety"
+  description = "" 
+
 [[feature]]
   icon = "train"
   icon_pack = "fas"
   name = "Rail Safety"
   description = ""
-  
-[[feature]]
-  icon = "bicycle"
-  icon_pack = "fas"
-  name = "Bike Safety"
-  description = ""
 
 [[feature]]
-  icon = "chart-area"
-  icon_pack = "fas"
-  name = "Statistics"
+  icon = "flight"
+  icon_pack = "custom"
+  name = "Hot Air Ballooning Safety"
   description = ""  
 
 # Uncomment to use emoji icons.
@@ -84,3 +66,5 @@ subtitle = ""
 #  name = "Surfing"
 #  description = "90%"
 +++
+
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
