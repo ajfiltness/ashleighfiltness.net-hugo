@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "iDreams"
-summary: "2019-2021"
+summary: "2019-2021 Smart Driver and Road Environment Assessment and Monitoring System"
 authors: [admin]
 tags: [project]
 categories: [project]
@@ -48,3 +48,7 @@ iDreams is funded by the European Commission under Horizon 2020 to develop, test
 https://idreamsproject.eu/wp/
 
 https://www.lboro.ac.uk/media-centre/press-releases/2019/may/new-eu-project-improve-road-safety/
+
+https://idreamsproject.eu/wp/wp-content/uploads/2020/01/iDreams-uHasselt-%E2%80%93-by-Zologie.com-3.mp4
+
+{{< figure src="iDreams.jpg" title="iDreams Kick Off meeting 2019" lightbox="true" >}}

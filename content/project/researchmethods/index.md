@@ -40,3 +40,6 @@ url_video: ""
 slides: ""
 ---
 I am experienced at a range of quantitative and qualitative research methods. In starting every new project, the first step is to identify the most appropriate method to investigate the research question of interest. Within any research project I commonly employ a mixed methods approach using both qualitative and quantitative techniques. In my quantitative research I particularly favour driving simulator’s and on-road investigations. 
+
+
+{{< figure src="Research methods.jpg" title="" lightbox="true" >}}

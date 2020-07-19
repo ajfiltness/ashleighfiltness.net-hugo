@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "OSA & Driving"
-summary: ""
+summary: "Driving simulator investigations with obstructive sleep apnoea patients. "
 authors: [admin]
 tags: [project]
 categories: [project]

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Reducing the risk of sleep‐related crashes in young drivers"
-summary: ""
+summary: "First steps towards an intervention to improve the sleep health of newly licenced drivers"
 authors: [admin]
 tags: [project]
 categories: [project]

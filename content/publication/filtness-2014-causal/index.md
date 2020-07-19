@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Aviation, space, and environmental medicine*"
+projects: [balloonsafety]
 ---
 
