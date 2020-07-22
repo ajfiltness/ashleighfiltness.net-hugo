@@ -39,6 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+# {{< icon name="train" pack="fas" >}} 
+
 My research experience within rail safety has covered a range of perspectives, including drivers, tracker workers and level crossing safety. In each experience I have investigated safety from a systems perspective, taking an all encompassing view point to comprehensively investigate all factors which can negatively impact safety.  
 
 {{< figure src="rail b (2).jpg" title="" lightbox="true" >}}

@@ -39,6 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
 Combining my hobby and my work, I have applied human factors methods to systematically identify contributing factors to private hot air ballooning incidents. The work analysed formal incident reports and engaged with balloonists, to seek opinions of those actively involved in the sport. This systematic analysis resulted in recommendations for improvement in safety. 
 
 {{< figure src="Balloonign a.jpg" title="" lightbox="true" >}}
