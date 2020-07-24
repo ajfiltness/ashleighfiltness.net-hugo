@@ -38,7 +38,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-projects: [icaros, safetycube]
+projects: [OSADriving, idreams, attention, busdrivers, caffeine, crashes, OldYoung, Eyes, icaros, RLX,safetycube, sleepyoung]
 ---
 # {{< icon name="car-crash" pack="fas" >}} 
 

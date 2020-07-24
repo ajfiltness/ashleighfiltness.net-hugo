@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Bus Driver Fatigue"
-summary: "Understanding sleepiness and fatigue in London city bus drivers"
+summary: "Understanding sleepiness and fatigue in London city bus drivers 2018-2020"
 authors: [admin]
 tags: [project]
 categories: [project]
@@ -39,6 +39,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+projects: [sleepiness, fatigue, occsafety, transportsafety]
 ---
 This mixed methods research programme used focus groups, interviews, survey and on-road investigation to understand sleepiness and fatigue in London city bus drivers, and suggest potential solutions to mitigate the impact on safety. The project was commissioned by Transport for London and conducted in collaboration with Dr Anna Anund and colleagues from the Swedish National Road and Transport Research Institute (VTI).
 

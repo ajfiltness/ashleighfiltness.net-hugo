@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Train driver fatigue and sleepiness"
-summary: "Causes, consequences and countermeasures to train driver sleepiness"
+summary: "Causes, consequences and countermeasures to train driver sleepiness 2015-2016"
 authors: [admin]
 tags: [project]
 categories: [project]
@@ -40,7 +40,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
-projects: [railsafety]
+projects: [railsafety, sleepiness, fatigue, occsafety]
 ---
 A signal passed at danger (SPAD) is considered one of the biggest safety breaches in rail. A series of focus groups with train drivers were conducted to discuss factors which can contribute to SPADS. This project used the existing focus groups to complete a targeted analysis of all mentions of fatigue or sleepiness. Drivers at all focus groups experienced fatigue/sleepiness despite each organisation having countermeasures in place aiming to reduce fatigue/sleepiness. Organisational culture was a barrier to effective fatigue/sleepiness management.
 

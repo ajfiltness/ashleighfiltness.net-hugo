@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "ICAROS"
-summary: "2019-2024 International Research Centre to Investigate the Effects of Vehicle Automation on Vulnerable Road Users"
+summary: "International Research Centre to Investigate the Effects of Vehicle Automation on Vulnerable Road Users 2019-2024 "
 authors: [admin]
 tags: [project]
 categories: [project]
@@ -39,6 +39,7 @@ url_project: "https://icaros.lboro.ac.uk/"
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+projects: [transportsafety]
 ---
 [ICAROS (International Research Centre to Investigate the Effects of Vehicle Automation on Vulnerable Road Users)](https://icaros.lboro.ac.uk/) – part-funded by Research England – brings together researchers from  Loughborough’s University’s Transport Safety Research Center(TSRC), Queensland University  of Technology and Tongji University. The International research centre – led by TSRC– investigates the safety of vulnerable road users (VRU) as driverless cars – or connected and autonomous vehicles (CAVs) – become more prevalent. ICAROS is nominated for a Loughborough University CALIBRE award - https://www.lboro.ac.uk/research/calibre-awards/nominees/icaros/.
 

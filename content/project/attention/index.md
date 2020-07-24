@@ -39,7 +39,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-projects: [sleepiness]
+projects: [sleepiness,transportsafety]
 ---
 Over a series of studies this project assessed factors that affect drivers’ ability to detect changes in visual information; exploring whether sleepiness impairs change detection. The work was funded by the NRMA-ACT Road Safety Trust. 
 

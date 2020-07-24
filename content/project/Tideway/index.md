@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Fatigue and Sleepiness in Tunnelling Operations"
-summary: "A qualitative investigation to understand fatigue and sleepiness in tunnel construction workers"
+summary: "A qualitative investigation to understand fatigue and sleepiness in tunnel construction workers 2018-2019"
 authors: [admin]
 tags: [project]
 categories: [project]
@@ -40,7 +40,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
-projects: [occsafety]
+projects: [sleepiness, fatigue, occsafety]
 ---
 Workers in the tunnelling sector are exposed to a wide range of workplace factors that can increase their vulnerability to fatigue, including the physical environment, variable shift patterns, manual and physical work, and repetitive and monotonous tasks. This study investigated how fatigue/sleepiness is experienced and handled within the industry using the Tideway project as a case study. The project was funded by Tideway. Using qualitative research techniques we spoke to frontline workers, supervisors/managers, middle managers and those involved in shift scheduling. All groups recognised that tunnelling workers experience fatigue/sleepiness, the frontline workers were less likely to see this as impacting safety than the other groups. There are opportunities for the industry to improve fatigue/sleepiness management but this will require a shift of workplace culture.
 
