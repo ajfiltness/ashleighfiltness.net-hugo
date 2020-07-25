@@ -38,6 +38,13 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-projects: [sleepiness, fatigue, transportsafety]
+
+links:
+  - name: Sleepiness
+    url: '/project/sleepiness/'
+  - name: Fatigue
+    url: '/project/fatigue/'
+  - name: Transport Safety
+    url: '/project/transportsafety/'
 ---
 Obstructive sleep apnoea (OSA) and daytime driver sleepiness was the topic of my Ph.D (2011). In a series of driving simulator investigations this work demonstrated that OSA patients who have been using CPAP treatment for at least 1 year show no different in performance at driving in a simulator than healthy controls. However, OSA patients were more vulnerable to sleep loss, and without their CPAP treatment driving performance was significantly impaired compared to drivers of a similar age without OSA

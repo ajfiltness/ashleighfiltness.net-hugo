@@ -38,7 +38,12 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-projects: [RLX, traindriver]
+
+links:
+  - name: Level Crossings
+    url: '/project/rlx/'
+  - name: Train Drivers
+    url: '/project/traindriver/'
 ---
 # {{< icon name="train" pack="fas" >}} 
 

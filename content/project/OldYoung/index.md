@@ -40,7 +40,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
-projects: [sleepiness, fatigue]
+
+links:
+  - name: Sleepiness
+    url: '/project/sleepiness/'
+  - name: Fatigue
+    url: '/project/fatigue/'
+
 ---
 This study aimed to investigate why younger men are overrepresented in sleep-related crashes compared to older men, is it because younger men are more vulnerable to the effects of sleep loss? Using the safe environment of a driving simulator driving performance of older (average age =67 years) men was compared to that of younger (average age =23 years) men, after their night time sleep had been restricted to 5 hours. After the sleep restriction the younger drivers had worse driving performance and more signs of sleepiness in EEG recordings than the older drivers. When both groups were fully rested driving performance did not differ between the two age groups. Results show that younger drivers are more vulnerable to the effects of sleep loss than older drivers. 
 

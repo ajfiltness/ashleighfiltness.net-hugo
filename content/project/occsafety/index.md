@@ -38,7 +38,17 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-projects: [busdrivers, caffeine, Tideway, traindriver]
+
+
+links:
+  - name: Bus Drivers
+    url: '/project/busdrivers/'
+  - name: Caffeine & Trucks
+    url: '/project/caffeine/'
+  - name: Tunnelling
+    url: '/project/tideway/'
+  - name: Train Drivers
+    url: '/project/traindriver/'
 ---
 # {{< icon name="hard-hat" pack="fas" >}} 
 

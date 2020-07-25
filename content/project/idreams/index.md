@@ -31,7 +31,7 @@ url_pdf:
 url_code:
 url_dataset:
 url_poster:
-url_project: "https://idreamsproject.eu/wp/"
+url_project: 
 url_slides:
 url_source: 
 url_video:
@@ -42,7 +42,19 @@ url_video:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-projects: [sleepiness, fatigue, transportsafety]
+
+
+links:
+  - name: Project webstie
+    url: 'https://idreamsproject.eu/wp/'
+  - name: Press Release
+    url: 'https://www.lboro.ac.uk/media-centre/press-releases/2019/may/new-eu-project-improve-road-safety/'
+  - name: Sleepiness
+    url: '/project/sleepiness/'
+  - name: Fatigue
+    url: '/project/fatigue/'
+  - name: Transport Safety
+    url: '/project/transportsafety/'
 ---
 iDreams is funded by the European Commission under Horizon 2020 to develop, test and validate a motoring platform which considers the driver state, the vehicle, and the driving context. The monitoring system is grounded in a defined ‘Safety Tolerance Zone’ which dictates boundaries of safe/unsafe operation. Both real time and post trip interventions are employed to mitigate driving risks across 4 user groups (cars, trucks, rail and coaches)
 

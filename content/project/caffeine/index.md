@@ -39,7 +39,19 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-projects: [sleepiness, fatigue, occsafety, transportsafety]
+
+
+links:
+  - name: Press Release 
+    url: 'https://www.lboro.ac.uk/news-events/news/2020/march/caffeine-not-answer-for-tired-lorry-drivers/'
+  - name: Sleepiness
+    url: '/project/sleepiness/'
+  - name: Fatigue
+    url: '/project/fatigue/'
+  - name: Occupational Safety
+    url: '/project/occsafety/'
+  - name: Transport Safety
+    url: '/project/transportsafety/'     
 ---
 One of the most effective ways to counteract sleepiness when driving is to have a caffeinated drink and a nap. It is common advice given to truck drivers if they feel sleepy to have a caffeinated drink. However, caffeine is addictive. When this advice is repeatedly given it is possible some drivers may become regular consumers of high amounts of caffeine. This project set out to compare truck drivers who report drinking 5 or more caffeinated drinks every day with truck drivers that drink 1 caffeinated drink per day. High caffeine drinkers felt sleepier, got less sleep and had poorer diets, drank more alcohol and were more likely to smoke. Importantly the high caffeine use did not reduce the number of crashes drivers had, so it appears that caffeine is not beneficial in high amounts. 
 

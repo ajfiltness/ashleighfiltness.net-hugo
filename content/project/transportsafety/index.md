@@ -38,7 +38,32 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-projects: [OSADriving, idreams, attention, busdrivers, caffeine, crashes, OldYoung, Eyes, icaros, RLX,safetycube, sleepyoung]
+
+links:
+  - name: OSA & Driving
+    url: '/project/osadriving/'
+  - name: i-Dreams
+    url: '/project/idreams/'
+  - name: Sleep & Visual Attention
+    url: '/project/attention/'
+  - name: Bus Drivers
+    url: '/project/busdrivers/'
+  - name: Caffeine & Trucks
+    url: '/project/caffeine/'
+  - name: Sleep-related Crashes
+    url: '/project/crashes/'
+  - name: Sleepy Eyes
+    url: '/project/eyes/'
+  - name: Young Driver Sleepiness
+    url: '/project/oldyoung/'
+  - name: Level Crossings
+    url: '/project/rlx/'
+  - name: Sleep health
+    url: '/project/sleepyoung/'
+  - name: SafetyCube
+    url: '/project/safetycube/'
+  - name: ICAROS
+    url: '/project/icaros/'
 ---
 # {{< icon name="car-crash" pack="fas" >}} 
 

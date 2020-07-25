@@ -40,7 +40,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
-projects: [railsafety, transportsafety]
+links:
+  - name: Rail Safety
+    url: '/project/railsafety/'
+  - name: Transport Safety
+    url: '/project/transportsafety/'
 ---
 I have been involved in two different projects investigating road safety at level crossings. 
 

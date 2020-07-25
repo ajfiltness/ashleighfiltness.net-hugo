@@ -40,7 +40,17 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
-projects: [railsafety, sleepiness, fatigue, occsafety]
+
+links:
+  - name: Sleepiness
+    url: '/project/sleepiness/'
+  - name: Fatigue
+    url: '/project/fatigue/'
+  - name: Occupational Safety
+    url: '/project/occsafety/'
+  - name: Rail Safety
+    url: '/project/railsafety/'
+
 ---
 A signal passed at danger (SPAD) is considered one of the biggest safety breaches in rail. A series of focus groups with train drivers were conducted to discuss factors which can contribute to SPADS. This project used the existing focus groups to complete a targeted analysis of all mentions of fatigue or sleepiness. Drivers at all focus groups experienced fatigue/sleepiness despite each organisation having countermeasures in place aiming to reduce fatigue/sleepiness. Organisational culture was a barrier to effective fatigue/sleepiness management.
 

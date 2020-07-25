@@ -38,7 +38,14 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-projects: [transportsafety]
+
+links:
+  - name: Project Website
+    url: 'https://www.safetycube-project.eu/'
+  - name: Press Release
+    url: 'https://www.lboro.ac.uk/media-centre/press-releases/2019/december/road-safety-award-prince-michael-of-kent/'
+  - name: Transport Safety
+    url: '/project/transportsafety/'
 ---
 SafetyCube (Safety CaUsation, Benefits and Efficiency) was a research project funded by the European Commission under  Horizon 2020, the objective of SafetyCube was to develop an [innovative road safety Decision Support System (DSS)](https://www.safetycube-project.eu/safetycube-decision-support-system-may-2015/) that enables policy-makers and stakeholders to select and implement the most appropriate strategies, measures and cost-effective approaches to reduce casualties of all road user types. The significance of this work was recognised by a [Prince Michael International Road Safety Award in 2019](https://www.roadsafetyawards.com/safetycube) 
 

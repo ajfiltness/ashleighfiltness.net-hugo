@@ -38,7 +38,28 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-projects: [OSADriving, idreams, attention, busdrivers, caffeine, crashes, OldYoung, Tideway, traindriver]
+
+
+links:
+  - name: OSA & Driving
+    url: '/project/osadriving/'
+  - name: i-Dreams
+    url: '/project/idreams/'
+  - name: Sleep & Visual Attention
+    url: '/project/attention/'
+  - name: Bus Drivers
+    url: '/project/busdrivers/'
+  - name: Caffeine & Trucks
+    url: '/project/caffeine/'
+  - name: Sleep-related Crashes
+    url: '/project/crashes/'
+  - name: Young Driver Sleepiness
+    url: '/project/oldyoung/'
+  - name: Tunnelling
+    url: '/project/tideway/'
+  - name: Train Drivers
+    url: '/project/traindriver/'
+
 ---
 # {{< icon name="tired" pack="fas" >}} 
 
