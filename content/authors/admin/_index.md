@@ -18,7 +18,7 @@ organizations:
   url: "https://www.lboro.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ashleigh is a Lecturer in Transport Safety at Loughborough University, UK. Ashleigh is fascinated by sleepiness and fatigue and their impact on safety and is an advocate for road safety, women in academia, dyslexia awareness, and support for first in family to University. 
+bio:  
 
 interests:
 
