@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Bus Driver Fatigue"
-summary: ""
+summary: "Understanding sleepiness and fatigue in London city bus drivers 2018-2020"
 authors: [admin]
 tags: [project]
 categories: [project]
@@ -28,8 +28,8 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_project: "https://www.lboro.ac.uk/media-centre/press-releases/2019/august/bus-driver-fatigue-research/"
-url_pdf: "http://content.tfl.gov.uk/bus-driver-fatigue-report.pdf"
+url_project: ""
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -39,6 +39,21 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+
+links:
+  - name: Final Report
+    url: 'http://content.tfl.gov.uk/bus-driver-fatigue-report.pdf' 
+  - name: Press Release
+    url: 'https://www.lboro.ac.uk/media-centre/press-releases/2019/august/bus-driver-fatigue-research/' 
+  - name: Sleepiness
+    url: '/project/sleepiness/'
+  - name: Fatigue
+    url: '/project/fatigue/'    
+  - name: Occupational Safety
+    url: '/project/occsafety/'
+  - name: Transport Safety
+    url: '/project/transportsafety/'     
 ---
 This mixed methods research programme used focus groups, interviews, survey and on-road investigation to understand sleepiness and fatigue in London city bus drivers, and suggest potential solutions to mitigate the impact on safety. The project was commissioned by Transport for London and conducted in collaboration with Dr Anna Anund and colleagues from the Swedish National Road and Transport Research Institute (VTI).
 

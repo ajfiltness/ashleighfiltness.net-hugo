@@ -2,7 +2,7 @@
 widget = "blank"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 25  # Order that this section will appear in.
+weight = 32  # Order that this section will appear in.
 
 # ... Put Your Section Options Here (title etc.) ...
 
@@ -10,4 +10,6 @@ weight = 25  # Order that this section will appear in.
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
-<a class="twitter-timeline" data-height="500" href="https://twitter.com/AJFiltness?ref_src=twsrc%5Etfw">Tweets by AJFiltness</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<center>
+<a class="twitter-timeline" data-height="500" data-width="500" href="https://twitter.com/AJFiltness?ref_src=twsrc%5Etfw">Tweets by AJFiltness</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</center>

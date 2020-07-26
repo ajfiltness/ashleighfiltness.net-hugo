@@ -18,12 +18,10 @@ organizations:
   url: "https://www.lboro.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ashleigh is a Lecturer in Transport Safety at Loughborough University, UK. Ashleigh is fascinated by sleepiness and fatigue and their impact on safety and is an advocate for road safety, women in academia, dyslexia awareness, and support for first in family to University. 
+bio:  
 
 interests:
-- Driver impairment
-- Transport safety
-- Fatigue
+
 
 education:
   courses:
@@ -48,6 +46,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AJFiltness 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ashleigh-filtness-72a74b18a 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=b67AsIQAAAAJ 
@@ -72,4 +73,9 @@ user_groups:
 -
 ---
 
-Ashleigh is a Lecturer in Transport Safety at Loughborough University, UK. Ashleigh is fascinated by sleepiness and fatigue and their impact on safety. Her research seeks to understand what situations contribute to sleepiness/fatigue and how can these bese be managed to reduce the impact on safety. Additionally she is interested in human factors of road and rail transport and has a wealth of experience of conducting industry and government funded projects seeking to improve safety. She loves her husband Edd, daughter Elysia and hot air ballooning! Ashleigh is an advocate for road safety, women in academia, dyslexia awareness, and support for first in family to University. 
+Ashleigh is a Lecturer in Transport Safety at Loughborough University, UK. Ashleigh is fascinated by sleepiness and fatigue and their impact on safety. Her research seeks to understand what situations contribute to sleepiness/fatigue and how can these bese be managed to reduce the impact on safety. Additionally she is interested in human factors of road and rail transport and has a wealth of experience of conducting industry and government funded projects seeking to improve safety. 
+
+She loves her husband Edd, daughter Elysia and hot air ballooning! Ashleigh is an advocate for road safety, women in academia, dyslexia awareness, and support for first in family to University. 
+
+Ashleigh is avalible for consultancy research, she welcomes contact from interested organisations and potential Ph.D students. 
+

@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Lecturer in Transport Safety "
-  company = "Loughborough University Design School"
+  company = "Loughborough University School of Design and Creative Arts"
   company_url = ""
   location = "Loughborough, UK"
   date_start = "2018-05-01"

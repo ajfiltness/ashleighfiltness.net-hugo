@@ -183,6 +183,9 @@
 - id: pub_patent
   translation: Patent
 
+- id: pub_media
+  translation: Media
+
 # Project details
 
 - id: open_project_site

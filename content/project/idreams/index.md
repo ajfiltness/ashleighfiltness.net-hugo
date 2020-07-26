@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "iDreams"
-summary: "2019-2021"
+summary: "Smart Driver and Road Environment Assessment and Monitoring System 2019-2021"
 authors: [admin]
 tags: [project]
 categories: [project]
@@ -27,10 +27,14 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+url_pdf:
+url_code:
+url_dataset:
+url_poster:
+url_project: 
+url_slides:
+url_source: 
+url_video:
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -38,9 +42,26 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+
+links:
+  - name: Project webstie
+    url: 'https://idreamsproject.eu/wp/'
+  - name: Press Release
+    url: 'https://www.lboro.ac.uk/media-centre/press-releases/2019/may/new-eu-project-improve-road-safety/'
+  - name: Sleepiness
+    url: '/project/sleepiness/'
+  - name: Fatigue
+    url: '/project/fatigue/'
+  - name: Transport Safety
+    url: '/project/transportsafety/'
 ---
-iDreams is funded by the European Commission under Horizon 2020 to develop, test and validate a motoring platform which considers the driver state, the vehicle, and the driving context. The monitoring system is grounded in a defined ‘Safety Tolerance Zone’ which dictates boundaries of safe/unsafe operation. Both real time and post trip interventions are employed to mitigate driving risks across 4 user groups (cars, trucks, rail and coaches). 
+iDreams is funded by the European Commission under Horizon 2020 to develop, test and validate a motoring platform which considers the driver state, the vehicle, and the driving context. The monitoring system is grounded in a defined ‘Safety Tolerance Zone’ which dictates boundaries of safe/unsafe operation. Both real time and post trip interventions are employed to mitigate driving risks across 4 user groups (cars, trucks, rail and coaches)
 
 https://idreamsproject.eu/wp/
 
 https://www.lboro.ac.uk/media-centre/press-releases/2019/may/new-eu-project-improve-road-safety/
+
+https://idreamsproject.eu/wp/wp-content/uploads/2020/01/iDreams-uHasselt-%E2%80%93-by-Zologie.com-3.mp4
+
+{{< figure src="iDreams.jpg" title="iDreams Kick Off meeting 2019" lightbox="true" >}}
