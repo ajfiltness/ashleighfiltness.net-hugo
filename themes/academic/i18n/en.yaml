@@ -186,6 +186,9 @@
 - id: pub_media
   translation: Media
 
+- id: pub_magazine
+  translation: Magazine article
+
 # Project details
 
 - id: open_project_site
