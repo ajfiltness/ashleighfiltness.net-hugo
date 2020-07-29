@@ -21,10 +21,25 @@ header:
   image: ""
 ---
 
-Below are listed press releases, interviews, news articles and pieces where I was featured due to my work in research and/or science communication. For magazine articles I have written, see publications.
+Below are listed press releases, selected news articles and pieces where I was featured due to my work in research and/or science communication. For magazine articles I have written, see publications.
+
+## Press releases 
+
+  - [More caffeine is not the answer for tired lorry drivers. 2020, March.](https://www.lboro.ac.uk/news-events/news/2020/march/caffeine-not-answer-for-tired-lorry-drivers/)
+  - [Loughborough’s lifesaving road safety research given royal recognition. 2019, December.](https://www.lboro.ac.uk/media-centre/press-releases/2019/december/road-safety-award-prince-michael-of-kent/) 
+  - [International research centre will investigate new road safety concerns. 2019, September.](https://www.lboro.ac.uk/departments/design-school/whats-happening/news/2019/i3.html)
+  - [New measures to tackle bus driver fatigue are set out thanks to world-first research into the issue. 2019, August.](https://www.lboro.ac.uk/media-centre/press-releases/2019/august/bus-driver-fatigue-research/)
+  - [European-wide project to improve road safety launched. 2019, May.](https://www.lboro.ac.uk/media-centre/press-releases/2019/may/new-eu-project-improve-road-safety/)
+  - [Don’t smile for the camera when sleepy. 2015, October.](https://www.qut.edu.au/news/news?news-id=98028) 
+  - [Do you know the signs of being to sleepy to drive? CARRS-Q study. 2015, September.](https://www.qut.edu.au/business/about/news/news?news-id=96141) 
+  - [New mums still excessively sleepy after four months: CARRS-Q study. 2014, August.](https://www.qut.edu.au/about/news/news?news-id=76500&utm_source=Twitter&utm_medium=socialmedia&utm_campaign=QUT_qutmedia)
+  -	[Lack of sleep? Young drivers care less. 2012, March.](http://monash.edu/news/show/lack-of-sleep-young-drivers-care-less) 
+
+
+## In the News
 
 title: "Warning issued over high caffeine consumption for truck drivers"
-authors: [admin]
+authors: [admin] 
 date: 2020-03-11T15:00:23+01:00
 publication: "Commercial Motor"
 url_source: "https://www.commercialmotor.com/news/product/warning-issued-over-high-caffeine-consumption-truck-drivers"

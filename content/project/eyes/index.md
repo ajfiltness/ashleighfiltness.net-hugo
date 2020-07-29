@@ -39,6 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 links:
+  - name: Press Release
+    url: 'https://www.qut.edu.au/business/about/news/news?news-id=96141'
   - name: Sleepiness
     url: '/project/sleepiness/'
   - name: Fatigue

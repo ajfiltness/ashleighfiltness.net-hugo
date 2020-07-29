@@ -42,6 +42,8 @@ slides: ""
 
 
 links:
+  - name: Press Release
+    url: 'https://www.qut.edu.au/news?news-id=76500'
   - name: Sleepiness
     url: '/project/sleepiness/'
   - name: Fatigue
