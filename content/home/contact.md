@@ -17,9 +17,9 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
-I am available for consultancy research, I regularly work with companies, organisations and government departments to investigate human factors contributors to safety concerns, in order to identify weaknesses and suggest potential solutions. In particular I specialise in reducing the impact of sleepiness and fatigue on safety.  
+I am available for consultancy research, I regularly work with companies, organisations and government departments to investigate how human factors influence safety, in order to identify weaknesses and suggest potential solutions. In particular I specialise in reducing the impact of sleepiness and fatigue on safety.  
 
-I am also available to speak on topics related to sleep, fatigue, promoting higher education particularly for first in family and dyslexic students,  girls into science and academic career.  
+I am also available to speak on topics related to sleep, fatigue, promoting higher education particularly for 'first in family', dyslexic students, and, girls into science and academic careers.  
 
 I am very open to academic research collaboration and welcome contact from interested potential Ph.D students and research interns. 
 

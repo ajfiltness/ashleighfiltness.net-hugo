@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Caffeine and truck drivers"
-summary: ""
+summary: "Is consuming high amounts of caffeine benaficial for truck drivers?"
 authors: [admin]
 tags: [project]
 categories: [project]
@@ -53,6 +53,6 @@ links:
   - name: Transport Safety
     url: '/project/transportsafety/'     
 ---
-One of the most effective ways to counteract sleepiness when driving is to have a caffeinated drink and a nap. It is common advice given to truck drivers if they feel sleepy to have a caffeinated drink. However, caffeine is addictive. When this advice is repeatedly given it is possible some drivers may become regular consumers of high amounts of caffeine. This project set out to compare truck drivers who report drinking 5 or more caffeinated drinks every day with truck drivers that drink 1 caffeinated drink per day. High caffeine drinkers felt sleepier, got less sleep and had poorer diets, drank more alcohol and were more likely to smoke. Importantly the high caffeine use did not reduce the number of crashes drivers had, so it appears that caffeine is not beneficial in high amounts. 
+One of the most effective ways to counteract sleepiness when driving is to have a caffeinated drink and a nap. It is common advice given to truck drivers if they feel sleepy to have a caffeinated drink. However, caffeine is addictive. When this advice is repeatedly given it is possible some drivers may become regular consumers of high amounts of caffeine. This project set out to compare truck drivers who report drinking 5 or more caffeinated drinks every day with truck drivers who drink 1 caffeinated drink per day. High caffeine drinkers felt sleepier, got less sleep, had poorer diets, drank more alcohol and were more likely to smoke. Importantly the high caffeine use did not reduce the number of crashes drivers had, so it appears that consuming high amounts of caffeine is not beneficial. 
 
-This project was complete while on a research visit to the Virginia Tech Transport Institute (VTTI)
+This project was completed while on a research visit to the Virginia Tech Transport Institute (VTTI).

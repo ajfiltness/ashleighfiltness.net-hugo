@@ -49,10 +49,10 @@ links:
     url: '/project/transportsafety/'
 ---
 
-Over a series of investigations I have worked with police recorded crash data, and self-report experience of those who have had a sleep-related crash to identify common characteristics of sleep crashes. Our findings have show that:
-- Sleep crashes are more common on high speed than low speed roads.
-- When sleep crashes do happen on low speed roads they have more severe outcomes than not sleep related crashes on the same roads. 
-- Sleep related crashes on low and high speed roads have similar characteristics: younger drivers (16-24y) are over represented, males are over represented, more likely to hit a stationary object, greater likelihood of severe outcome. 
-- Sleep related crashes are under reported, many people who have had a sleep related crash report that the police were not informed. 
-- Some jurisdictions who recognise the under reporting of sleep related crashes apply a proxy definition making an assumption that all crashes that fit set criteria are treated as sleep related. 
+Over a series of investigations I have worked with police recorded crash data, and self-report experience of those who have had a sleep-related crash to identify common characteristics of these crashes. Our findings have shown that:
+- Sleep crashes are more common on high speed roads than low speed roads.
+- When sleep crashes do happen on low speed roads they have more severe outcomes than non-sleep related crashes on the same roads. 
+- Sleep related crashes on low and high speed roads have similar characteristics: younger drivers (16-24y) and males are over represented, and more likely to hit a stationary object and have greater likelihood of severe outcome. 
+- Sleep related crashes are under reported, many people who have had a sleep related crash stated that the police were not informed. 
+- Some jurisdictions who recognise the under reporting of sleep related crashes apply a proxy definition making an assumption that all crashes which fit set criteria are treated as sleep related. 
 - Applying a proxy definition can influence the overall observed characteristics of sleep crashes. 

@@ -57,6 +57,4 @@ links:
 ---
 This mixed methods research programme used focus groups, interviews, survey and on-road investigation to understand sleepiness and fatigue in London city bus drivers, and suggest potential solutions to mitigate the impact on safety. The project was commissioned by Transport for London and conducted in collaboration with Dr Anna Anund and colleagues from the Swedish National Road and Transport Research Institute (VTI).
 
-https://www.lboro.ac.uk/media-centre/press-releases/2019/august/bus-driver-fatigue-research/
 
-http://content.tfl.gov.uk/bus-driver-fatigue-report.pdf

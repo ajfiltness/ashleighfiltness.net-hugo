@@ -27,9 +27,12 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Supervision of students and research assistants.
-  * Working in international research collaborations. 
-  * Teaching on undergraduate and masters programmes
+  * Leading a team of researchers.
+  * Supervision of students research projects.
+  * Working on international research collaborations. 
+  * Teaching Undergraduate and Masters programmes.
+  * Elected member of Loughborough Unviersity Senate
+  * School outreach and athena SWAN involvement
 
   """
 
@@ -66,7 +69,7 @@ date_format = "Jan 2006"
   
   * Leading grant and tender applications to state and national funding schemes.
   * Project manager roles ensuring completion of projects in a timely, cost effective manner.
-  * Involvement in centre strategic planning activities.  
+  * Involvement in Centre strategic planning activities.  
 
   """
   

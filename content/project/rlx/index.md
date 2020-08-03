@@ -46,9 +46,9 @@ links:
   - name: Transport Safety
     url: '/project/transportsafety/'
 ---
-I have been involved in two different projects investigating road safety at level crossings. 
+I have been involved in several different projects investigating road safety at level crossings. 
 
-Passive rail crossings have no active warning systems to assist drivers. They are reliant on their own perception to make the decision whether it is safe to cross or not. To investigate human capabilities to do this, we asked participants to observe approaching trains. Drivers can accurately detect that a train is moving when the train gets within 1.6km of them. Most people underestimate how quickly the train is travelling, (despite being confident in their speed estimate) and report that it would be safe to cross under situations where lights would have been activated at an active level crossing. 
+Passive rail crossings have no active warning systems to assist drivers. They are reliant on their own perception to make the decision whether it is safe to cross or not. To investigate human capabilities to do this, we asked participants to observe approaching trains. Drivers can accurately detect that a train is moving when the train gets within 1.6km of them. Most people underestimate how quickly the train is travelling, (despite being confident in their speed estimate) and reported that it would be safe to cross under situations where lights would have been activated if they were at an active level crossing. 
 
 In a separate on-road investigation of driver behaviour at passive stop sign level crossings, we observed that 40% of drivers did not completely stop. Those drivers who did not stop spent less time visually checking for trains. 
 

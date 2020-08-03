@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Research Methods"
-summary: ""
+summary: "Quantitative and Qualitative approaches"
 authors: [admin]
 tags: [interests]
 categories: [interests]
@@ -39,7 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-I am experienced at a range of quantitative and qualitative research methods. In starting every new project, the first step is to identify the most appropriate method to investigate the research question of interest. Within any research project I commonly employ a mixed methods approach using both qualitative and quantitative techniques. In my quantitative research I particularly favour driving simulator’s and on-road investigations. 
+I am experienced in a range of quantitative and qualitative research methods. When starting every new project, the first step is to identify the most appropriate method to investigate the research question of interest. Within any research project I commonly employ a mixed methods approach using both qualitative and quantitative techniques. In my quantitative research I particularly favour driving simulator’s and on-road investigations. 
 
 
 {{< figure src="Research methods.jpg" title="" lightbox="true" >}}
