@@ -38,63 +38,50 @@ Below are listed press releases, selected news articles and pieces where I was f
 
 ## In the News
 
-title: "Warning issued over high caffeine consumption for truck drivers"
-authors: [admin] 
-date: 2020-03-11T15:00:23+01:00
-publication: "Commercial Motor"
-url_source: "https://www.commercialmotor.com/news/product/warning-issued-over-high-caffeine-consumption-truck-drivers"
+Caffeine and Truck Drivers 
+- [Warning issued over high caffeine consumption for truck drivers](https://www.commercialmotor.com/news/product/warning-issued-over-high-caffeine-consumption-truck-drivers) 
+Publication: Commercial Motor. Date: 11-03-2020
+- [More ‘joe,’ more crashes](https://www.fleetowner.com/news/article/21126403/truck-drivers-who-drink-more-caffeine-are-in-more-crashes-study-says) 
+Publication: FleetOwner. Date: 18-03-2020
+- [Coffee and Crashes](https://www.topmarkfunding.com/coffee-and-crashes-limit-your-caffeine/) 
+Publication: TopMark. Date: 18-03-2020
 
-title: "Sleep catches young men at the wheel"
-date: 2012-02-29T14:48:43+01:00
-publication: "ABC"
-url_source: "https://www.abc.net.au/science/articles/2012/02/29/3441594.htm"
+Driver sleepiness on YouTube
+- [Videos show sleep drivers dicing with death](https://www.themorningbulletin.com.au/news/videos-show-sleep-drivers-dicing-death/2809353/)
+Publication: The Bulletin. Date: 16-10-2015
+- [Drivers, don't smile for the camera when sleepy](https://www.sciencedaily.com/releases/2015/10/151020103837.htm)
+Publication: ScienceDaily. Date: 20-10-15
+-[YouTube videos give insight into sleepy driving](https://zeenews.india.com/news/net-news/youtube-videos-give-insight-into-sleepy-driving_1812868.html)
+Publication: Zee India. Date: 21-10-15
 
-title: "Why new mothers shouldn't rush back to work: Many are still 'exhausted' four months after giving birth"
-authors: [admin]
-date: 2014-08-04T14:59:33+01:00
-publication: "Daily Mail"
-url_source: "https://www.dailymail.co.uk/health/article-2715346/Why-new-mothers-shouldnt-rush-work-Many-exhausted-four-months-giving-birth.html"
+Emotion and Driving 
+- [Why so angry? Researchers try to get in the minds of young drivers](https://www.brisbanetimes.com.au/national/queensland/why-so-angry-researchers-try-to-get-in-the-minds-of-young-drivers-20151002-gk09bp.html)
+Publication: Brisbane Times. Date: 02-10-15
 
-title: "Do you know the signs of being too sleepy to drive?"
-authors: [admin]
-date: 2015-09-15T14:59:53+01:00
-doi: ""
-publication: "Medical Express"
-url_source: "https://medicalxpress.com/news/2015-09-sleepy.html"
+Sleepy Eyes
+- [Do you know the signs of being to sleepy?](https://medicalxpress.com/news/2015-09-sleepy.html)
+Publication: MedicalXpress. Date: 15-09-15
+- [Do you know the signs of being too sleepy to drive? CARRS-Q Study](https://www.healthcanal.com/disorders-conditions/sleep/66915-do-you-know-the-signs-of-being-too-sleepy-to-drive-carrs-q-study.html)
+Publication: Healthcanal. Date: 13-09-17
 
-title: "YouTube videos give insight into sleepy driving. Video blogging or vlogging distracts the driver in the same way as texting and mobile phone use."
-authors: [admin]
-date: 2015-10-21T14:58:09+01:00
-publication: "Zeenews India"
-url_source: "https://zeenews.india.com/news/net-news/youtube-videos-give-insight-into-sleepy-driving_1812868.html"
+Sleep and New Mothers
+- [New mums excessively tired at four months](https://www.heraldsun.com.au/news/breaking-news/new-mums-excessively-tired-at-four-months/news-story/92fccbaae97e95ecfd30783d501f2d2a) 
+Publication: Hearald Sun. Date: 1-08-14
+- [New mums excessively tried at four months](https://www.dailytelegraph.com.au/news/breaking-news/new-mums-excessively-tired-at-four-months/news-story/92fccbaae97e95ecfd30783d501f2d2a)
+Publication: The Daily Telegraph. Date: 1-08-14
+- [New mums excessively tired at four months](https://www.couriermail.com.au/news/breaking-news/new-mums-excessively-tired-at-four-months/news-story/92fccbaae97e95ecfd30783d501f2d2a) 
+Publication: The Courier Mail. Date: 1-08-14
+- [Why new mothers shouldn't rush back to work](https://www.mailonsunday.co.uk/health/article-2715346/Why-new-mothers-shouldnt-rush-work-Many-exhausted-four-months-giving-birth.html)
+Publication: The Mail Online. Date: 1-08-14
+- [Why new mums shouldn't rush back to work](https://www.nzherald.co.nz/lifestyle/news/article.cfm?c_id=6&objectid=11304206)
+Publication: New Zealand Herald. Date: 5-08-14
 
-title: "Coffee and Crashes: Limit Your Caffeine"
-authors: [admin]
-date: 2020-03-24T15:00:10+01:00
-publication: "Topmark Funding"
-url_source: "https://www.topmarkfunding.com/coffee-and-crashes-limit-your-caffeine/"
+Young Driver Sleepiness
+- [Sleep catches young men at the wheel](www.abc.net.au/science/articles/2012/02/29/3441594.htm?site=science/memory&topic=l%20atest)
+Publication: ABC. Date: 29-02-12
 
-title: "Videos show sleep drivers dicing with death"
-authors: [admin]
-date: 2015-10-16T14:58:38+01:00
-doi: ""
-publication: "The Chronicle"
-url_source: "https://www.thechronicle.com.au/news/videos-show-sleep-drivers-dicing-death/2809353/"
 
-title: "New mothers can suffer with baby brain four months after birth."
-authors: [admin]
-date: 2014-08-03T14:42:02+01:00
-publication: "The Telegraph"
-url_source: "https://www.telegraph.co.uk/news/health/news/11009230/New-mothers-can-suffer-with-baby-brain-four-months-after-birth.html"
 
-title: "Don’t smile for the camera when sleepy: CARRS-Q study"
-authors: [admin]
-date: 2015-10-05T14:44:32+01:00
-publication: "Scimex"
-url_source: "https://www.scimex.org/newsfeed/dont-smile-for-the-camera-when-sleepy-carrs-q-study"
 
-title: "Loughborough’s lifesaving road safety research given royal recognition at The Savoy"
-authors: [admin]
-date: 2019-12-10T14:51:42+01:00
-publication: "Roadsafe"
-url_source: "https://www.roadsafe.com/loughboroughslifesavingroadsafetyresearchgivenroyalrecognitionatthesavoy"
+
+
