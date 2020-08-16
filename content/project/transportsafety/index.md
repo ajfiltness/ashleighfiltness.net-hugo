@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Transport Safety"
-summary: ""
+summary: "Human factors of transport safety"
 authors: [admin]
 tags: [interests]
 categories: [interest]
@@ -67,9 +67,7 @@ links:
 ---
 # {{< icon name="car-crash" pack="fas" >}} 
 
-Throughout my academic career I have always worked in dedicated transport/road safety centres, firstly at Monash University Accident Research Centre (MUARC), Monash University, then at the Centre for Accident Research and Road Safety - Queensland (CARRS-Q), QUT and most recently at the Transport Safety Research Centre (TSRC), Loughborough University. I have experience researching a range of transport safety topics including topics related to: driver sleepiness, driver fatigue, alcohol impairment, drug driving, situation awareness, driving in road works, co-location of road signs, road user differences (pedestrian, motorcycle, driver, cyclist), automated vehicles, vulnerable road users, evidence based policy making
+Throughout my academic career I have always worked in dedicated transport/road safety centres, firstly at Monash University Accident Research Centre (MUARC), then at the Centre for Accident Research and Road Safety - Queensland (CARRS-Q), QUT and most recently at the Transport Safety Research Centre (TSRC), Loughborough University. I have experience researching a range of transport safety topics including topics related to: driver sleepiness, driver fatigue, alcohol impairment, drug driving, situation awareness, driving through road works, co-location of road signs, road user differences (pedestrian, motorcycle, driver, cyclist), automated vehicles, vulnerable road users, evidence based policy making
 
-Example Transport safety related projects include:
-- Safety Cube
-- ICAROS
+
  

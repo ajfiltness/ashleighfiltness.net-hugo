@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Sleep loss and visual attention"
-summary: "Is change blindness affected by sleepiness?"
+summary: "Is 'change blindness' affected by sleepiness?"
 authors: [admin]
 tags: [project]
 categories: [project]
@@ -46,8 +46,8 @@ links:
   - name: Transport Safety
     url: '/project/transportsafety/'     
 ---
-Over a series of studies this project assessed factors that affect drivers’ ability to detect changes in visual information; exploring whether sleepiness impairs change detection. The work was funded by the NRMA-ACT Road Safety Trust. 
+Over a series of studies this project assessed factors which affect drivers’ ability to detect changes in visual information; exploring whether sleepiness impairs change detection. The work was funded by the NRMA-ACT Road Safety Trust. 
 
-Overall, the research found that drivers are best at detecting changes that involve other road users and targets with high safety relevance. The impact of safety relevance is greatest in demanding situations, e.g. when the visual environment is cluttered or at high travel speeds. Accuracy for change detection was maintained after sleep loss. There is limited evidence that sleep loss impairs efficiency of change detection in visually cluttered urban scenes, but not in rural scenes. 
+Overall, the research found that drivers are best at detecting changes that involve other road users and changes which are highly relevant to safety. The impact of safety relevance is greatest in demanding situations, e.g. when the visual environment is cluttered or at high travel speeds. Accuracy for change detection was maintained after sleep loss. There is limited evidence that sleep loss impairs efficiency of change detection in visually cluttered urban scenes, but not in rural scenes. 
 
 

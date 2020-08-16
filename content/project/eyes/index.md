@@ -39,6 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 links:
+  - name: Press Release
+    url: 'https://www.qut.edu.au/business/about/news/news?news-id=96141'
   - name: Sleepiness
     url: '/project/sleepiness/'
   - name: Fatigue
@@ -47,6 +49,6 @@ links:
     url: '/project/transportsafety/'
 ---
 
-OMost people have some awareness of how sleepy they are. If someone falls asleep when they are driving it is rare that they will not have tried to do something to prevent sleepiness beforehand e.g. opening a window, talking to a passenger. Taking an action to try and counteract their sleepiness demonstrates that they are aware of their tiredness. However, some people report that they are not able to tell when they are sleepy. This project investigated how subjective feelings about the eyes relate to objective observation of driving performance. 10 different eye symptoms were trialled with sleepy participants driving a simulator and on a real road. The two symptoms with strongest links to sleepiness were having ‘heavy eyelids’ and ‘difficulty keeping eyes open’, after this ‘eye strain’ and ‘difficulty focusing’ were next most associated with sleepiness. Results suggest that drivers who are struggling to identify sleepiness could be helped with the advice ‘stop driving if you feel sleepy and/or have heavy eyelids or difficulty keeping your eyes open’. 
+Most people have some awareness of how sleepy they are. If someone falls asleep when they are driving it is rare that they will not have tried to do something to prevent sleepiness beforehand e.g. opening a window, talking to a passenger. Taking an action to try and counteract their sleepiness demonstrates that they are aware of their tiredness. However, some people report that they are not able to tell when they are sleepy. This project investigated how subjective feelings about the eyes relate to objective observation of driving performance. 10 different eye symptoms were trialled with sleepy participants driving a simulator and on a real road. The two symptoms with strongest links to sleepiness were having ‘heavy eyelids’ and ‘difficulty keeping eyes open’, after this ‘eye strain’ and ‘difficulty focusing’ were next most associated with sleepiness. Results suggest that drivers who are struggling to identify sleepiness could be helped with the advice ‘stop driving if you feel sleepy and/or have heavy eyelids or difficulty keeping your eyes open’. 
 
-This project was completed while on a research visit to the Swedish National Road and Transport Research Institute (VTI)
+This project was completed while on a research visit to the Swedish National Road and Transport Research Institute (VTI).

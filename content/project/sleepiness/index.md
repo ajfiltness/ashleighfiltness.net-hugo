@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Sleepiness"
-summary: ""
+summary: "Feeling tired due to lack of sleep or time of day"
 authors: [admin]
 tags: [interests]
 categories: [interests]
@@ -68,11 +68,7 @@ links:
 ---
 # {{< icon name="bed" pack="fas" >}} 
 
-I have always enjoyed sleeping, and have a high sleep ability, I first became interested in sleep from an academic point of view while studying for my Undergraduate Degree in Human Biology at Loughborough University. During the course I took a sleep module which opened my eyes (!) to the huge topic that is sleep research. I went on to complete my Ph.D investigating Obstructive Sleep Apnoea and Daytime driver sleepiness and have been facilitated with how sleepiness and safety interact ever since. 
+I have always enjoyed sleeping, and have a high sleep ability, I first became interested in sleep from an academic point of view while studying for my Undergraduate Degree in Human Biology at Loughborough University. During the course I took a sleep module which opened my eyes (!) to the huge topic that is sleep research. I went on to complete my Ph.D investigating Obstructive Sleep Apnoea and Daytime driver sleepiness and have been fascinated with how sleepiness and safety interact ever since. 
 
-Example Sleep research projects
-- OSA and driving
-- iDreams
-- Sleep crashes
-- Sleep in new mothers
+
 

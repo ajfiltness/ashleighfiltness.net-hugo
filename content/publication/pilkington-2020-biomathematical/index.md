@@ -9,6 +9,6 @@ abstract: "Worker fatigue is an important risk factor in civil engineering and c
 featured: false
 publication: "*Proceedings of the Institution of Civil Engineers-Civil Engineering*"
 
-projects: [Tideway]
+projects: [tideway]
 ---
 

@@ -42,6 +42,8 @@ slides: ""
 
 
 links:
+  - name: Press Release
+    url: 'https://www.qut.edu.au/news?news-id=76500'
   - name: Sleepiness
     url: '/project/sleepiness/'
   - name: Fatigue
@@ -49,7 +51,7 @@ links:
 
 
 ---
-It is well known that lack of sleep increases sleepiness during the daytime. New mothers are highly likely to experience daytime sleepiness because of disruption to night time sleep. This study followed new mothers for 18 weeks after their baby was born. On weeks 6, 12 and 18  after giving birth mothers were asked to record their sleep and rate how sleepy they felt. The amount of night time sleep remained the same at each time point, as did the number of times the mothers were woken during the night, but the  number of minutes they spent awake after each time of being woken reduced over time. Subjective sleepiness decreased at each time point. At week 18 half of the mothers were still experiencing excessive daytime sleepiness. Policy makers developing regulations for parental leave entitlements should be aware of this  high prevalence of excessive daytime sleepiness and leave is long enough for daytime sleepiness to diminish to a manageable level prior to restarting work. 
+It is well known that lack of sleep increases sleepiness during the daytime. New mothers are highly likely to experience daytime sleepiness because of disruption to night time sleep. This study followed new mothers for 18 weeks after their baby was born. On weeks 6, 12 and 18  after giving birth mothers were asked to record their sleep and rate how sleepy they felt. The amount of night time sleep remained the same at each time point, as did the number of times the mothers were woken during the night, but the  number of minutes they spent awake after each time of being woken reduced over time. Subjective sleepiness decreased at each time point. At week 18 half of the mothers were still experiencing excessive daytime sleepiness. Policy makers developing regulations for parental leave entitlements should be aware of this  high prevalence of excessive daytime sleepiness and ensure that leave is long enough for daytime sleepiness to diminish to a manageable level prior to restarting work. 
 
 
 

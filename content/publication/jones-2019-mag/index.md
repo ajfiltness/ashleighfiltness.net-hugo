@@ -1,32 +1,32 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Sleep catches young men at the wheel"
-authors: []
-date: 2012-02-29T14:48:43+01:00
+title: "'Kicking the can down the road’ – is tunnelling ready to address its fatigue risks?"
+authors: [Wendy Jones, Ashleigh Filtness, Roger Haslam, Alistair Gibb, A. and Nathan Stuttard]
+date: 2019-07-26T20:36:02+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2012-02-29T14:48:43+01:00
+publishDate: 2020-07-26T20:36:02+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["9"]
+publication_types: ["10"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ABC"
+publication: "Tunnelling Journal, (June/July 2019), pp. 28 - 31."
 publication_short: ""
 
-abstract: ""
+abstract: "Research conducted on Tideway with stakeholders who work in tunnelling suggests that current shift patterns and working arrangements in the sector are problematic: but addressing this is difficult given cost constraints, tight deadlines and the choices workers make to suit their personal circumstances. Tideway has thrown down the gauntlet by specifying that tunnelling shifts on the project must not exceed ten hours."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Media]
-categories: [Media]
-featured: true
+tags: []
+categories: []
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -36,13 +36,13 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "https://repository.lboro.ac.uk/articles/Waking_up_to_fatigue/9352931"
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: "https://www.abc.net.au/science/articles/2012/02/29/3441594.htm"
+url_source: "https://tunnellingjournal.com/archive/tunnelling-journal-june-july-2019/?highlight=waking+up+to+fatigue&whatPage=32" 
 url_video:
 
 # Featured image
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [tideway]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

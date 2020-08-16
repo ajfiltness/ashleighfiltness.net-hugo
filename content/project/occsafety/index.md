@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Occupational Safety"
-summary: ""
+summary: "Human factors of safety at work"
 authors: [admin]
 tags: [interests]
 categories: [interests]

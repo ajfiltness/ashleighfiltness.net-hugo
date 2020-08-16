@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Fatigue"
-summary: ""
+summary: "Feeling tired due to duration of task, being mentally overloaded or underloaded"
 authors: [admin]
 tags: [interests]
 categories: [interests]
@@ -63,9 +63,5 @@ links:
 ---
 # {{< icon name="tired" pack="fas" >}} 
 
-As a sleepiness and fatigue researcher I am innately aware if the difference between these two interacting concepts, while being conscious that for the majority of the population the terms are interchangeable. To me sleepiness is biological, it is influence by how long it has been since you last slept, and your body clock. The feeling of sleepiness can only be mitigated by sleeping or by changing your biology with a chemical compound such as caffeine that acts on the brain. On the other hand, fatigue can have many causes. It is usually associated with having to sustain an activity for a long period of time, overload or underload. If you have been performing a monotonous task for a very long time and it is becoming boring and difficult to concentrate on, doing a different task often makes the fatigue go away. But if you were sleepy it would not matter if you changed the task because you would actually be carrying the sleepiness along with you. In my research I often consider both fatigue and sleepiness, seeking to understand the contributing factors to both and how to best mitigate the impact on safety 
+As a sleepiness and fatigue researcher I am innately aware of the difference between these two interacting concepts, while being conscious that for the majority of the population the terms are interchangeable. To me sleepiness is biological, it is influenced by how long it has been since you last slept, and your body clock. The feeling of sleepiness can only be mitigated by sleeping or by changing your biology with a chemical compound such as caffeine which acts on the brain. On the other hand, fatigue can have many causes. It is usually associated with having to sustain an activity for a long period of time, overload or underload. If you have been performing a monotonous task for a very long time and it is becoming boring and difficult to concentrate on, doing a different task often makes the fatigue go away. But if you were sleepy it would not matter if you changed the task because you would actually be carrying the sleepiness along with you. In my research I often consider both fatigue and sleepiness, seeking to understand the contributing factors to both and how to best mitigate the impact on safety 
 
-Example fatigue related projects include
-
-- OSA Driving
-- iDreams

@@ -31,7 +31,7 @@ education:
   - course: Bachelor of Science, Human Biology (Honours) 
     institution: Loughborough University
     year: 2007
-  - course: Diploma of Professional Studies, Pharmaceutical Regulatory Affairs, 
+  - course: Diploma of Professional Studies, Pharmaceutical Regulatory Affairs 
     institution: 3M Health Care Ltd
     year: 2006
 
@@ -73,9 +73,9 @@ user_groups:
 -
 ---
 
-Ashleigh is a Lecturer in Transport Safety at Loughborough University, UK. Ashleigh is fascinated by sleepiness and fatigue and their impact on safety. Her research seeks to understand what situations contribute to sleepiness/fatigue and how can these bese be managed to reduce the impact on safety. Additionally she is interested in human factors of road and rail transport and has a wealth of experience of conducting industry and government funded projects seeking to improve safety. 
+Dr Ashleigh Filtness is a Lecturer in Transport Safety at Loughborough University, UK. Ashleigh is fascinated by sleepiness and fatigue and their impact on safety. Her research seeks to understand which situations contribute to sleepiness/fatigue and how can these best be managed to reduce the impact on safety. Additionally she is interested in human factors of road and rail transport and has a wealth of experience of conducting industry and government funded projects seeking to improve safety. 
 
-She loves her husband Edd, daughter Elysia and hot air ballooning! Ashleigh is an advocate for road safety, women in academia, dyslexia awareness, and support for first in family to University. 
+Ashleigh balances her busy part time working with being mum to daughter Elysia. She and her husband Edd enjoy walking and share a passion for hot air ballooning. Ashleigh is an advocate for road safety, women in academia, dyslexia awareness, and support for 'first in family' to University. 
 
-Ashleigh is avalible for consultancy research, she welcomes contact from interested organisations and potential Ph.D students. 
+Dr Filtness is avalible for consultancy research, she welcomes contact from interested organisations and potential Ph.D students. 
 
