@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Going underground: Fatigue and sleepiness in tunnelling operations"
-authors: [Maynard, S., Jones, W., Filtness, A., Gibb, A., Haslam, R.]
+authors: [Sally Maynard, Wendy Jones, Ashleigh Filtness, Alistair Gibb, Roger Haslam]
 date: 2020-08-20T20:05:26+01:00
 doi: "https://doi.org/10.1016/j.apergo.2020.103237"
 

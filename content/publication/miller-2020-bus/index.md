@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Contributory factors to sleepiness amongst London bus drivers"
-authors: [Miller, K. A., Filtness, A. J., Anund, A., Maynard, S. E., Pilkington-Cheney, F.]
+authors: [Miller K. A., Filtness A. J., Anund A., Maynard S. E., Pilkington-Cheney F.]
 date: 2020-08-20T20:05:26+01:00
 doi: "https://doi.org/10.1016/j.trf.2020.07.012"
 
