@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "'Kicking the can down the road’ – is tunnelling ready to address its fatigue risks?"
-authors: [Wendy Jones, Ashleigh Filtness, Roger Haslam, Alistair Gibb, A. and Nathan Stuttard]
+authors: ["Wendy Jones", "Ashleigh Filtness", "Roger Haslam", "Alistair Gibb", "Nathan Stuttard"]
 date: 2019-07-26T20:36:02+01:00
 doi: ""
 
