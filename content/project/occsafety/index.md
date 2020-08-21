@@ -53,5 +53,3 @@ links:
 # {{< icon name="hard-hat" pack="fas" >}} 
 
 Most often my research in occupational safety focuses on professional drivers, including truck drivers, bus drivers, train and tram drivers. However, the key themes of sleepiness, fatigue, and human factors in safety are translatable to other industries e.g. construction and nuclear. 
-
-- bus driver fatigue
