@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer in Transport Safety
+role: Senior Lecturer of Human Factors in Transport Safety
 
 # Organizations/Affiliations
 organizations:
@@ -73,7 +73,7 @@ user_groups:
 -
 ---
 
-Dr Ashleigh Filtness is a Lecturer in Transport Safety at Loughborough University, UK. Ashleigh is fascinated by sleepiness and fatigue and their impact on safety. Her research seeks to understand which situations contribute to sleepiness/fatigue and how can these best be managed to reduce the impact on safety. Additionally she is interested in human factors of road and rail transport and has a wealth of experience of conducting industry and government funded projects seeking to improve safety. 
+Dr Ashleigh Filtness is a Senior Lecturer of Human Factors in Transport Safety at Loughborough University, UK. Ashleigh is fascinated by sleepiness and fatigue and their impact on safety. Her research seeks to understand which situations contribute to sleepiness/fatigue and how can these best be managed to reduce the impact on safety. Additionally she is interested in human factors of road and rail transport and has a wealth of experience of conducting industry and government funded projects seeking to improve safety. 
 
 Ashleigh balances her busy part time working with being mum to daughter Elysia. She and her husband Edd enjoy walking and share a passion for hot air ballooning. Ashleigh is an advocate for road safety, women in academia, dyslexia awareness, and support for 'first in family' to University. 
 
