@@ -2,8 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "PANACEA"
-summary: "rogetto
-PracticAl and Effective tools to moNitor and Assess CommErciAl drivers’ fitness to drive 2021-2024"
+summary: "PracticAl and Effective tools to moNitor and Assess CommErciAl drivers’ fitness to drive 2021-2024"
 authors: [admin]
 tags: [project]
 categories: [project]
