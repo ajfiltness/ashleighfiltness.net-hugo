@@ -45,7 +45,7 @@ slides: ""
 
 
 links:
-  - name: Project webstie
+  - name: Project website
     url: 'https://idreamsproject.eu/wp/'
   - name: Press Release
     url: 'https://www.lboro.ac.uk/media-centre/press-releases/2019/may/new-eu-project-improve-road-safety/'

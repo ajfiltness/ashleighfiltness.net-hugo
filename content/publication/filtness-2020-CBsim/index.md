@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Sleep loss and change detection in simulated driving"
-authors: [Ashleigh Filtness, Vanessa Beanland, Karl Miller, Gregoire Larue, Alana Hawkins]
+authors: ["Ashleigh Filtness", " Vanessa Beanland", "Karl Miller", " Gregoire Larue", "Alana Hawkins"]
 date: 2020-09-20T20:05:26+01:00
 doi: "https://doi.org/10.1080/07420528.2020.1821043"
 
