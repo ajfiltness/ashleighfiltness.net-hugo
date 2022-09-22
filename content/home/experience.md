@@ -18,12 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Professor of Transport Human Factors and Sleep Science"
+  company = "Loughborough University School of Design and Creative Arts"
+  company_url = ""
+  location = "Loughborough, UK"
+  date_start = "2022-09-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Director of Knoweldge Exchange and Innovation
+  * Strategic leadership in School and Centre committee's 
+  * Leading a team of researchers.
+  * Supervision of students research projects.
+  * Working on international research collaborations. 
+  * Teaching Undergraduate and Masters programmes.
+  * School outreach and athena SWAN involvement
+
+  """
+
+[[experience]]
   title = "Senior Lecturer of Human Factors in Transport Safety"
   company = "Loughborough University School of Design and Creative Arts"
   company_url = ""
   location = "Loughborough, UK"
   date_start = "2020-10-01"
-  date_end = ""
+  date_end = "2022-08-31"
   description = """
   Responsibilities include:
   

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "utonomous Vehicles and Vulnerable Road-Users—Important Considerations and Requirements Based on Crash Data from Two Countries"
+title: "Autonomous Vehicles and Vulnerable Road-Users—Important Considerations and Requirements Based on Crash Data from Two Countries"
 authors: ["Andrew Morris", "Narelle Haworth", "Ashleigh Filtness", "Daryl-Palma Asongu Nguatem", "Laurie Brown", "Andry Rakotonirainy", "Sebastien Glaser"]
 date: 2021-08-20T20:05:26+01:00
 doi: "https://doi.org/10.3390/bs110701019"
